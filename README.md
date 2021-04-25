@@ -7,7 +7,9 @@ Part # 1 - Accepting user input and generating a CSV file with the time stamps o
 
 Part # 2 - Calculating the mean of the time difference in hours between two adjacent commits.
 
-Setup:
+Setup: 
+
+A reference to JRE system library is required
 
 The current code requires the following Java packages to be added manually to the project.
 1. java.net.http
